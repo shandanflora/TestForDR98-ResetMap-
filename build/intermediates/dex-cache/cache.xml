@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/ecosqa/.gradle/caches/modules-2/files-2.1/com.jayway.android.robotium/robotium-solo/5.5.4/f3ac369a98aff592f11866b73f92a74162d7a5fd/robotium-solo-5.5.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f3ac369a98aff592f11866b73f92a74162d7a5fd">
+        <dex dex="/Users/ecosqa/Desktop/shandan/Projects/AutoTestForDR98(resetMap)/app/build/intermediates/pre-dexed/androidTest/debug/robotium-solo-5.5.4_80f862b1e7769fad85508dad339b871e83deea57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ecosqa/Desktop/shandan/Projects/AutoTestForDR98(resetMap)/app/libs/android-junit-report-1.5.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bddcb7be8b20da9701a5dde399952c667ab05866">
+        <dex dex="/Users/ecosqa/Desktop/shandan/Projects/AutoTestForDR98(resetMap)/app/build/intermediates/pre-dexed/androidTest/debug/android-junit-report-1.5.8_fdf605ccdb154cdb41ef80a0812c09477dd3a2cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ecosqa/Desktop/shandan/Projects/AutoTestForDR98(resetMap)/app/libs/testutils.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7c8dcc88df4e2eab6e8b854dea8b2399e031b16d">
+        <dex dex="/Users/ecosqa/Desktop/shandan/Projects/AutoTestForDR98(resetMap)/app/build/intermediates/pre-dexed/androidTest/debug/testutils_1093c517376f09a536a53114f366ab370133b006.jar" />
+    </item>
+
+</items>
